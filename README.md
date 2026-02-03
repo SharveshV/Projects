@@ -1,4 +1,4 @@
-Machine Learning Learning Journey,
+Machine Learning and Data Science Learning Journey,
 
 This repository documents my structured learning path toward becoming a Machine Learning Engineer.
 
